@@ -16,7 +16,7 @@ from flask import Flask, request, session, g, redirect, url_for, abort, \
 
 # configuration
 DATABASE = '/tmp/flaskr.db'
-DEBUG = True
+DEBUG = Truefff
 SECRET_KEY = 'development key'
 USERNAME = 'admin'
 PASSWORD = 'default'
